@@ -113,3 +113,7 @@ html {
     width: 130%;
 }
 /* End of Section 1 */
+
+.main {
+    min-height: 100vh;
+}
